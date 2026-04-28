@@ -1,6 +1,9 @@
 {
-  "version": "1.0.2",
-  "package_url": "https://github.com/dev-adancalixto/SistemaMedico-Updates/releases/download/V1.0.2/sistema_medico_v1.0.2.zip",
-  "sha256": "6c5872ba876d200c44274a611c5aa4ded13a73f95d9e3bcbfee412ae3f481009",
-  "notes": "Actualizacion 1.0.2"
+    "version":  "1.0.2",
+    "package_url":  "https://github.com/dev-adancalixto/SistemaMedico-Updates/releases/download/V1.0.2/sistema_medico_v1.0.2.zip",
+    "file":  "sistema_medico_v1.0.2.zip",
+    "sha256":  "613d8b6a25e8d3871dbb05b134edc44ae2211ce8562e93ee749ed507238625ad",
+    "notes":  "Actualizacion 1.0.2",
+    "release_notes":  "Actualizacion 1.0.2",
+    "app_name":  "SistemaMedico-Adan Calixto"
 }
