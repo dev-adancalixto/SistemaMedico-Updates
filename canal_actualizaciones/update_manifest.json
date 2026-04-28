@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "package_url": "https://raw.githubusercontent.com/dev-adancalixto/SistemaMedico-Updates/main/canal_actualizaciones/sistema_medico_v1.0.1.zip",
-  "sha256": "CertUtil:",
-  "notes": "Actualizacion 1.0.1"
+  "version": "1.0.2",
+  "package_url": "https://raw.githubusercontent.com/dev-adancalixto/SistemaMedico-Updates/main/canal_actualizaciones/sistema_medico_v1.0.2.zip",
+  "sha256": "6c5872ba876d200c44274a611c5aa4ded13a73f95d9e3bcbfee412ae3f481009",
+  "notes": "Actualizacion 1.0.2"
 }
